@@ -1,21 +1,3 @@
-{
-  "cli": {
-    "version": ">= 16.17.4",
-    "appVersionSource": "remote"
-  },
-  "build": {
-    "development": {
-      "developmentClient": true,
-      "distribution": "internal"
-    },
-    "preview": {
-      "distribution": "internal"
-    },
-    "production": {
-      "autoIncrement": true
-    }
-  },
-  "submit": {
-    "production": {}
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6023d8b2f767ca7be36925bddc72814b81f1e8bd7ea6a7cc56495f81b7585f11
+size 344

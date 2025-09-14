@@ -1,35 +1,3 @@
-{
-  "expo": {
-    "name": "medicine-finder",
-    "slug": "medicine-finder",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true,
-      "package": "com.sriharini150421.medicinefinder"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "88ef9ab5-13e7-4331-bb78-690b7b199e97"
-      }
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:570ba593f9bf14353fedb362e2bf8006d08820064299071034e5edf217c78a03
+size 816
